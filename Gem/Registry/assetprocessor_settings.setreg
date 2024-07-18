@@ -1,0 +1,18 @@
+{
+    "Amazon": {
+        "AssetProcessor": {
+            "Settings": {
+                "ScanFolder TicTacticalToe/Assets": {
+                    "watch": "@GEMROOT:TicTacticalToe@/Assets",
+                    "recursive": 1,
+                    "order": 101
+                },
+                "ScanFolder TicTacticalToe/Registry": {
+                    "watch": "@GEMROOT:TicTacticalToe@/Registry",
+                    "recursive": 1,
+                    "order": 102
+                }
+            }
+        }
+    }
+}

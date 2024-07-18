@@ -1,0 +1,45 @@
+{
+    "project_name": "TicTacticalToe",
+    "version": "1.0.0",
+    "project_id": "{E357037C-BC3E-43D2-ABB0-C58ADB98B96E}",
+    "origin": "The primary repo for TicTacticalToe goes here: i.e. http://www.mydomain.com",
+    "license": "What license TicTacticalToe uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "TicTacticalToe",
+    "summary": "A short description of TicTacticalToe.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "TicTacticalToe"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "TicTacticalToe",
+    "gem_names": [
+        "TicTacticalToe",
+        "Atom",
+        "AudioSystem",
+        "AWSCore",
+        "CameraFramework",
+        "DebugDraw",
+        "DiffuseProbeGrid",
+        "EditorPythonBindings",
+        "EMotionFX",
+        "GameState",
+        "ImGui",
+        "LandscapeCanvas",
+        "LyShine",
+        "PhysX",
+        "PrimitiveAssets",
+        "PrefabBuilder",
+        "SaveData",
+        "ScriptCanvasPhysics",
+        "ScriptEvents",
+        "StartingPointInput",
+        "TextureAtlas",
+        "WhiteBox"
+    ]
+}
